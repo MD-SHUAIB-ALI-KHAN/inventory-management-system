@@ -65,7 +65,20 @@ Sample JSON:
 Error example (400): `{"status":400,"message":"Validation failed","errors":{"name":"Name is required"}}`
 
 ## Screenshots
-_Add screenshots here (login page, dashboard, phpMyAdmin table)._
+### Login
+![Login](Screenshots/Login%20Page.png)
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Validation Error
+![Error](Screenshots/Error%20Pop-up.png)
+
+### Database (phpMyAdmin)
+![DB](Screenshots/Phpmyadmin%20Table.png)
+
+### Unit Tests (6 passed)
+![Tests](Screenshots/6%20successful%20mvn%20tests.png)
 
 ## Author
 Md Shuaib Ali Khan — B.Tech CSE, BSA Crescent Institute of Science and Technology
